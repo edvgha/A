@@ -1,3 +1,5 @@
 __pycache__/
 boosting/__pycache__/
-optim/__pycache__/
+optim/__pycache__/.venv/
+__pycache__/
+*.pyc
