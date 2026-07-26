@@ -5,11 +5,13 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "category-encoders>=2.9.0",
     "matplotlib>=3.11.1",
     "numpy>=2.4.6",
     "pandas>=3.0.5",
     "scikit-learn>=1.9.0",
     "scipy>=1.17.1",
+    "xgboost>=3.2.0",
 ]
 
 [tool.uv]
